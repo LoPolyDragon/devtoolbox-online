@@ -1,0 +1,10 @@
+{
+  "name": "devtoolbox-online",
+  "version": "0.1.0",
+  "description": "Free online developer tools - JSON formatter, Base64, Regex, Color converter, Unix timestamp",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
